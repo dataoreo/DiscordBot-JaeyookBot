@@ -2,7 +2,7 @@ name: Jeyuk Bot Daily Check
 
 on:
   schedule:
-    - cron: '5 17 * * *'
+    - cron: '8 17 * * *'
   workflow_dispatch:
 
 jobs:
