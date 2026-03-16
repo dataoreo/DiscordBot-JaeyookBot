@@ -21,7 +21,7 @@
 
 | 기능 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
-| **자동 식단 스캔** | 창보 식당의 점심 메뉴 HTML 데이터 수집 | ![BS4](https://img.shields.io/badge/BeautifulSoup4-4EAA25?style=flat-square&logo=Python&logoColor=white) |
+| **자동 식단 스캔** | 창보 식당의 점심 메뉴 HTML 데이터 수집 및 파싱 | ![BS4](https://img.shields.io/badge/BeautifulSoup4-4EAA25?style=flat-square&logo=Python&logoColor=white) |
 | **제육 키워드 필터링** | 메뉴 중 '제육'이 포함되었는지 확인 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
 | **디스코드 푸시 알림** | 오전 10시 정각에 디스코드 알림 발송 | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Discord](https://img.shields.io/badge/Discord%20API-5865F2?style=flat-square&logo=discord&logoColor=white) |
 
