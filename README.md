@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>🍖 [Toy Project] 창보제육 알리미 🍖</h1> 
-  <p><strong>"디스코드 알림 하나로 오늘 점심은 창보제육 바로 결정!"</strong></p>
+  <p><strong>"디스코드 알림 하나로 오늘 점심은 창보제육 바로 결정"</strong></p>
   <br>
 </div>
 
