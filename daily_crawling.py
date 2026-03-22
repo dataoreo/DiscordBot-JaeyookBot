@@ -23,7 +23,8 @@ def check_menu():
             alert_text = f"오늘 점심 제육 ㄱ?\n오늘의 메뉴 : {menu}"
             bot.send_message(alert_text)
         else:
-            print("오제없(오늘 제육 없다는 뜻)")
+            alert_text = "오제없(오늘 제육 없다는 뜻)"
+            bot.send_message(alert_text)
 
     else:
         print("오늘은 주말! 식단이 등록되어 있지 않습니다.")
